@@ -10,7 +10,6 @@ setup(
     license='Apache',
     url='http://cyborginstitute.org/projects/rstcloth',
     packages=['rstcloth'],
-    setup_requires=['nose'],
     test_suite='test',
     classifiers=[
         'Programming Language :: Python',
